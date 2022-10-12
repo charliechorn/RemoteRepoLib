@@ -1,0 +1,16 @@
+PODS:
+  - RemoteRepoLib (0.1.0)
+
+DEPENDENCIES:
+  - RemoteRepoLib (from `../`)
+
+EXTERNAL SOURCES:
+  RemoteRepoLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RemoteRepoLib: 7cc26e9892df5b12ac6c8b4fbc8c2c8e659979cd
+
+PODFILE CHECKSUM: 3cc13dbb5f698c0449928bc8349ff2a66629bfcc
+
+COCOAPODS: 1.11.3

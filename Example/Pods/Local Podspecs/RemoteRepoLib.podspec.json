@@ -1,0 +1,22 @@
+{
+  "name": "RemoteRepoLib",
+  "version": "0.1.0",
+  "summary": "A short description of RemoteRepoLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Charlie/RemoteRepoLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Charlie": "chhorn.chhaly@ababank.com"
+  },
+  "source": {
+    "git": "https://github.com/Charlie/RemoteRepoLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RemoteRepoLib/Sources/**/*"
+}

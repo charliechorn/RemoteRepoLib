@@ -1,0 +1,6 @@
+framework module Pods_RemoteRepoLib_Example {
+  umbrella header "Pods-RemoteRepoLib_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

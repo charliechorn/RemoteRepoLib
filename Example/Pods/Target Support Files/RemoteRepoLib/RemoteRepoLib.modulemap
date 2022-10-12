@@ -1,0 +1,6 @@
+framework module RemoteRepoLib {
+  umbrella header "RemoteRepoLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
